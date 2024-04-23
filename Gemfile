@@ -40,7 +40,7 @@ gem "tzinfo-data", platforms: %i[ windows jruby ]
 
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
-gem "devise"
+# gem "devise"
 
 group :development, :test do
   # Debugging tool for development and test environments

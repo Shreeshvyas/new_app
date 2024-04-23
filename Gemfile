@@ -45,7 +45,6 @@ gem "bootsnap", require: false
 group :development, :test do
   # Debugging tool for development and test environments
   gem "debug", platforms: %i[ mri windows ]
-  gem 'byebug'
 end
 
 group :development do
